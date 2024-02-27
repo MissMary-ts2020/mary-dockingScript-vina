@@ -16,6 +16,7 @@
 - 版本号 ver.5.0.0.1
 - 语言 C
 
+- 该项目适用于GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 ## 用法
 > 本工具宜于业已位点预测之场合
