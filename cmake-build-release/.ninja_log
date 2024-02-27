@@ -1,0 +1,7 @@
+# ninja log v5
+1	36	1708942215274187294	CMakeFiles/docking.dir/primary.c.o	b8f23b7b152d042a
+36	64	1708942215300853940	docking	80657be2131e2a2d
+0	35	1708942215274187294	CMakeFiles/docking.dir/main.c.o	3e508af8f73479de
+0	57	1709019952349209905	CMakeFiles/docking.dir/kernel.c.o	ebfc612a69394869
+0	67	1709019952359209917	CMakeFiles/docking.dir/main.c.o	3e508af8f73479de
+67	92	1709019952385876614	docking	ffddeac30f5f5fbe

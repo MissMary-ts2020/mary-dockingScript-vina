@@ -1,0 +1,10 @@
+receptor =repc3_renum.pdbqt
+center_x = 23.58
+center_y = 88.92
+center_z = 74.32
+size_x = 20
+size_y = 20
+size_z = 20
+num_modes = 1
+cpu = 9
+

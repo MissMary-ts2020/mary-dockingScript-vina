@@ -1,0 +1,3 @@
+/home/mary/docking/cmake-build-debug/CMakeFiles/docking.dir
+/home/mary/docking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mary/docking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
