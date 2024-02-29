@@ -67,7 +67,7 @@ void after_result(char* result,const char* addr){
         strcpy(writing,addr);
         strcat(writing,",");
         strcat(writing,dG_str);
-        strcat(writing,"END_LINE");
+        strcat(writing,"\n");
         FILE* result_csv=fopen("result.csv","a+");
         int success_or_not = fputs(writing, result_csv);
         // 将内容写入文件
