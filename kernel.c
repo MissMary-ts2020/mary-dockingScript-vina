@@ -60,7 +60,7 @@ void after_result(char* result,const char* addr){
 
     printf("本次对接结果为%lf kcal/mol\n",dG);
     sprintf(dG_str,"%lf",dG);
-    if(dG<-3.6){
+    if(dG<-9.6){
         //只有dG小于-9.6kcal/mol的情况才予以记录
         //写入字符串
         char writing[1024]="";
